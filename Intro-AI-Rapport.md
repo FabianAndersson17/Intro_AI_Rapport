@@ -4,6 +4,8 @@ För att kunna förut se huspriser behöver man data på huspriser och hur det h
 
 Denna datan kan man ha det i en graf med en axel för tid och en axel för pris, där x-axeln är tid och y-axeln är pris. X-axeln måste markeras med år för att lättare kunna se vid vilket år det är man kollar och y-axeln markeras med medelpriset för bostäder med passande mellanrum mellan de olika priserna. Gör man på detta sättet får man en graf där man kan kolla av hur mycket medelpriset för bostäder förändrats över åren och se förändringar i priser för att kunna se tidigare förändringar och förut se förändringar i framtiden. Sedan får man ta in en fel faktor för olika ekonomiska problem och katastrofer.
 
+### Bearbeta datan
+
 ## Källor
 https://dqydj.com/historical-home-prices/#How_do_I_cite_this_data
 https://www.redfin.com/city/11203/CA/Los-Angeles/housing-market#demand
