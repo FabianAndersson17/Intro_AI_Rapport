@@ -8,7 +8,7 @@ För att bearbeta datan till rätt format behöver man rensa bort all data som i
 
 Linjär regression är när data sätt ut som punkter i ett rutnät med position varierande på vilken data som pricken representerar. I detta fallet är prickens position basserad på medelhuspriset vid en viss tidpunkt där y-axeln vissar hur mycket medel priset för en bostad var och x-axeln vissar vilket år det är. Med linjär regression sätts det ut en prick vid ett år och med koresponerande medelpris för bostad. Sedan när fler punkter sätts ut kan man dra ett sträck igenom punkterna som vissar hur datan har förändrats. Om mängden datapunkter öker kommer även noggrannheten på den linjära regressionen öka. Dock kan den linjära regressionen vara felaktig om datan som man sätter in har stort varierande värde det kan ge en felaktig bild.
 
-
+//Driftsätta modellen
 
 ## Källor:
 - https://dqydj.com/historical-home-prices/#How_do_I_cite_this_data
