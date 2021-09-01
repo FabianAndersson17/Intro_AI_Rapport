@@ -8,10 +8,15 @@ För att bearbeta datan till rätt format behöver man rensa bort all data som i
 
 Linjär regression är när data sätt ut som punkter i ett rutnät med position varierande på vilken data som pricken representerar. I detta fallet är prickens position basserad på medelhuspriset vid en viss tidpunkt där y-axeln vissar hur mycket medel priset för en bostad var och x-axeln vissar vilket år det är. Med linjär regression sätts det ut en prick vid ett år och med koresponerande medelpris för bostad. Sedan när fler punkter sätts ut kan man dra ett sträck igenom punkterna som vissar hur datan har förändrats. Om mängden datapunkter öker kommer även noggrannheten på den linjära regressionen öka. Dock kan den linjära regressionen vara felaktig om datan som man sätter in har stort varierande värde det kan ge en felaktig bild.
 
-//Driftsätta modellen
+För att driftsätta modellen kan man sätta upp en server i molnet där datan lagras för att sedan kunnas vissa i modellen. Då sätts datan in i ordning på förutbestämda axlar sedan skrivs en graf ut som går genom datapunkterna. Man kan även driftsätta modellen med hjälpa av program så som render där datan tas från github och driftsätter modellen där ifrån.
+
+Teknik som kan användas för maskininlärningsprocessen är till exempel bibliotek som går att ladda ner till python så som tenserflow vilket är en platform som kan hjälpa till att bygga ett neuralt nätverk som i sin tur kan hjälp till med insamling av data och överföring av data för att hjälpa maskininlärningsprocessen.
 
 ## Källor:
 - https://dqydj.com/historical-home-prices/#How_do_I_cite_this_data
 - https://www.redfin.com/city/11203/CA/Los-Angeles/housing-market#demand
 - https://en.wikipedia.org/wiki/Linear_regression
 - https://www.talend.com/resources/what-is-data-processing/
+- https://towardsdatascience.com/10-ways-to-deploy-and-serve-ai-models-to-make-predictions-336527ef00b2
+- https://www.tensorflow.org/
+- https://opensource.com/article/18/5/top-8-open-source-ai-technologies-machine-learning
